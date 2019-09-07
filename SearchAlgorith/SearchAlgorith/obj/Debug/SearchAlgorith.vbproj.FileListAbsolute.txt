@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\SearchAlgorith\SearchAlgorith\bin\Debug\SearchAlgorith.exe.config
+C:\Users\User\source\repos\SearchAlgorith\SearchAlgorith\bin\Debug\SearchAlgorith.exe
+C:\Users\User\source\repos\SearchAlgorith\SearchAlgorith\bin\Debug\SearchAlgorith.pdb
+C:\Users\User\source\repos\SearchAlgorith\SearchAlgorith\bin\Debug\SearchAlgorith.xml
+C:\Users\User\source\repos\SearchAlgorith\SearchAlgorith\obj\Debug\SearchAlgorith.vbprojAssemblyReference.cache
+C:\Users\User\source\repos\SearchAlgorith\SearchAlgorith\obj\Debug\SearchAlgorith.Resources.resources
+C:\Users\User\source\repos\SearchAlgorith\SearchAlgorith\obj\Debug\SearchAlgorith.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\SearchAlgorith\SearchAlgorith\obj\Debug\SearchAlgorith.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SearchAlgorith\SearchAlgorith\obj\Debug\SearchAlgorith.exe
+C:\Users\User\source\repos\SearchAlgorith\SearchAlgorith\obj\Debug\SearchAlgorith.xml
+C:\Users\User\source\repos\SearchAlgorith\SearchAlgorith\obj\Debug\SearchAlgorith.pdb
